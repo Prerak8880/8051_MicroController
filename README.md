@@ -1,5 +1,8 @@
 # 8051_MicroController
 
+![1MY-TechnoCare-MY8051-ZIF-Small-Development-Board-with-MAX232-Atmel-AT89S52IC-Project-Board](https://github.com/Prerak8880/8051_MicroController/assets/96664052/cf50d897-9bd4-4f36-8f30-1f9628cb7394)
+
+
 The 8051 microcontroller is one of the most popular and widely used microcontrollers in embedded systems and electronics projects. It was originally developed by Intel in the late 1970s, and since then, it has been manufactured by various semiconductor companies. The 8051 architecture has become a standard in the industry and has been extensively used in various applications due to its simplicity, reliability, and versatility.
 
 Here's an overview of the 8051 microcontroller:
