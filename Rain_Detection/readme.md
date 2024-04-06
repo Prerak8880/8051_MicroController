@@ -19,6 +19,6 @@ Maybe there are a lot more uses that are possible, I have written the issues, th
 
 ## Circuit Diagram
 <br>
-![rain-sensor-interfacing-with-8051](https://github.com/Prerak8880/8051_MicroController/assets/96664052/cd367cc4-b4ab-469e-89f9-a88b87d59b6e)
+![rain-sensor-interfacing-with-8051](https://github.com/Prerak8880/8051_MicroController/assets/96664052/954f126a-2372-4a86-9cc3-7796d8e05798)
 
 
