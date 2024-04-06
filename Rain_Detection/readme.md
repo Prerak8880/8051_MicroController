@@ -15,3 +15,9 @@ Maybe there are a lot more uses that are possible, I have written the issues, th
 (2)  8051 uC
 (3)  LED
 (4)  Jumper Wires
+<br>
+
+## Circuit Diagram
+<br>
+![rain-sensor-interfacing-with-8051](https://github.com/Prerak8880/8051_MicroController/assets/96664052/2ef6c23f-ef69-41d8-a0e2-20fbf7e2f878)
+
