@@ -18,5 +18,6 @@ Maybe there are a lot more uses that are possible, I have written the issues, th
 <br>
 
 ## Circuit Diagram
-<br>
+![image](https://github.com/Prerak8880/8051_MicroController/assets/96664052/da3cf585-9257-4784-99ee-bba5a1e1dd4b)
+
 
