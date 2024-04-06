@@ -1,7 +1,8 @@
 # RAIN DETECTION
 <br>
 
-A solution it starts raining, for example
+A solution when it starts raining, for example
+<be>
 <br>
 (1)  When the clothes are left to dry on the roof<br>
 (2)  We can use it as a motor indicator when to switch off.<br>
