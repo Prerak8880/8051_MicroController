@@ -1,3 +1,6 @@
+## Note ##
+Result video is attached below
+
 # RAIN DETECTION
 <br>
 
