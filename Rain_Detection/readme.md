@@ -20,4 +20,11 @@ Maybe there are a lot more uses that are possible, I have written the issues, th
 ## Circuit Diagram
 ![image](https://github.com/Prerak8880/8051_MicroController/assets/96664052/da3cf585-9257-4784-99ee-bba5a1e1dd4b)
 
+<br>
+
+# RESULT
+
+
+
+https://github.com/Prerak8880/8051_MicroController/assets/96664052/4cf625b5-b315-4091-a03a-c7cb4581bb91
 
