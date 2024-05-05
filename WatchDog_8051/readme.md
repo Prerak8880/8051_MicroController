@@ -5,6 +5,9 @@ A watchdog timer (WDT) is a timer that monitors microcontroller (MCU) programs t
 
 ### 2. **WDT operation : Detection of MCU faults**<br>
 The watchdog timer communicates with the MCU at a set interval. If the MCU does not output a signal, outputs too many signals or outputs signals that differ from a predetermined pattern, the timer determines that the MCU is malfunctioning and sends a reset signal to the MCU. </br>
+<br>
+![image](https://github.com/Prerak8880/8051_MicroController/assets/96664052/c8f15d9d-78c4-48fa-909d-d19a49640a6b)
+
 
 ## Output.<br>
 
